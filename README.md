@@ -94,7 +94,7 @@ A simple interactive application (built with `ipywidgets` in Jupyter, and as a s
 | Age 25, female, BMI 22.5, no children, non-smoker, northwest | $1,891.64 |
 | Age 50, male, BMI 30.0, 2 children, smoker, southeast | $34,082.25 |
 
-🔗 **Live app:** [link will go here after deployment]
+🔗 **Live app:** [https://medical-insurance-cost-prediction-uuft3ryc9nabu8b2kxf6zf.streamlit.app]
 
 ---
 
